@@ -44,7 +44,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/cuongnt"
+      url: "https://github.com/cuongntr"
 
   cover:
     hidden: true
