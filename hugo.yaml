@@ -1,5 +1,5 @@
-baseURL: "https://cuongnt.github.io/backbytes_blogs/"
-title: BackBytes
+baseURL: "https://blog.blackbyte.io.vn/"
+title: Blackbyte's Blog
 paginate: 5
 theme: PaperMod
 
@@ -14,10 +14,10 @@ minify:
 
 params:
   env: production
-  title: BackBytes
+  title: Blackbyte's Blog
   description: "A personal blog about software engineering, technology, and beyond."
   keywords: [Blog, Software Engineering, Technology]
-  author: Cuong NT
+  author: Blackbyte
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -40,7 +40,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there 👋"
-    Content: "Welcome to BackBytes — a blog about software engineering, technology, and the things I learn along the way."
+    Content: "Welcome to Blackbyte's Blog — a blog about software engineering, technology, and the things I learn along the way."
 
   socialIcons:
     - name: github
